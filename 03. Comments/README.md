@@ -1,7 +1,7 @@
 How to use comment in the program
 
 ## Single Line Comment
-```
+```cpp
 // Your Comment Here
 ...code
 
@@ -9,7 +9,7 @@ How to use comment in the program
 ```
 
 ## Multiline Comment
-```
+```cpp
 /*
     Your Comments Here
 */
