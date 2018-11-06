@@ -10,7 +10,7 @@ int x;
 x = 5;
 ```
 
-## Can be at once
+## Can be done at once
 ```cpp
 int y = 10;
 ```
